@@ -9,22 +9,22 @@
 
 🔥 **Project Highlights** :
 
-*Tabspace* 📅 Stay organized with a sleek and user-friendly Dashboard.
-*Tabspace* 📉 Track your daily tasks effortlessly.
-*Tabspace* 📥 Easily manage pending processes.
-*Tabspace* 📈 Monitor progress in real-time.
-*Tabspace* 🛠️ **Tools Used** :
+&nbsp; 📅 Stay organized with a sleek and user-friendly Dashboard.
+&nbsp; 📉 Track your daily tasks effortlessly.
+&nbsp; 📥 Easily manage pending processes.
+&nbsp; 📈 Monitor progress in real-time.
+&nbsp; 🛠️ **Tools Used** :
 
-*Tabspace* 🖌️ Figma for stunning designs.
-*Tabspace* 📸 Photoshop for eye-catching graphics.
+&nbsp; 🖌️ Figma for stunning designs.
+&nbsp; 📸 Photoshop for eye-catching graphics.
 
 🧩 **Tech Stack** :
 
-*Tabspace* ✅ HTML 🌐
-*Tabspace* ✅ CSS 🎨
-*Tabspace* ✅ JavaScript 🔧
-*Tabspace* ✅ jQuery 🕹️
-*Tabspace* ✅ Bootstrap 📱
+&nbsp;✅ HTML 🌐
+&nbsp; ✅ CSS 🎨
+&nbsp; ✅ JavaScript 🔧
+&nbsp; ✅ jQuery 🕹️
+&nbsp; ✅ Bootstrap 📱
 
 📧 **Get in Touch**
 For inquiries, collaboration, or just to say hello, reach out to us at 📩 swamithedev@gmail.com.
