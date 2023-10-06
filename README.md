@@ -1,4 +1,4 @@
-🚀 ** Dashboard Project** 🚀
+🚀 **Dashboard Project** 🚀
 
 📊 **Project Title:** Dashboard
 🎯 **Project Purpose:** Managing Daily Tasks, Tracking Pending Processes, and Monitoring Task Progress in Your Dashboard
